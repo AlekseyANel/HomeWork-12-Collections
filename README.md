@@ -1,4 +1,4 @@
-# HomeWork-12-Collections
+# HomeWork-12-Collections_Java
 Task. 
 Реализовать консольное приложение, которое будет генерировать пять
 коллекций: ArrayList, LinkedList, HashSet, LinkedHashSet and TreeMap.
